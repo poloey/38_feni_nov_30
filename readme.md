@@ -6,6 +6,11 @@
 composer create-project laravel/laravel <foldername>
 ~~~
 
+### serving laravel using artisan command
+~~~
+php artisan serve
+~~~
+
 ### Route - routes/web.php file
 
 
